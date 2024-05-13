@@ -1,3 +1,4 @@
+this is to see if i can update my config
 # kickstart.nvim
 
 ## Introduction
